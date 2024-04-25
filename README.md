@@ -1,4 +1,4 @@
-# chatt-in-term
+# chat-in-term
 Chatting Application in C, used on the terminal.
 ---
 I will explain how each file functions and what are the commands usable on the application here!
@@ -13,7 +13,7 @@ otheruser: message
 
 main.c - contains all the code.
 
-a.out - is the executable file FOR LINUX!
+a.out - is the executable file *FOR LINUX*!
 
 If you are on windows a.out will not be executable.
 You will have to compile it again using gcc.
